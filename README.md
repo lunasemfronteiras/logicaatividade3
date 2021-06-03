@@ -27,6 +27,8 @@
 ## Readline e Nodemon
 ##### Aprendi que graças uns anjos devs Readline e Nodemon facilita muito as nossas vidas e fizemos a instação dos mesmos no Vs code!
 
+## Luna Valentina
+
 [Instagram] (https://www.instagram.com/transdev_/)
 
 ![VIVA A DIVERCIDADE!!!](https://lucianagenro.com.br/wp-content/uploads/2021/01/bandeira-trans.jpg)
