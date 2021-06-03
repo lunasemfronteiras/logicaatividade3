@@ -1,3 +1,5 @@
+![](https://novotel.accor.com/middleware/images/1385611912996/1495034542092/5580-bw-parada-gay-mercure-1400x538-op5.jpg)
+
 # Nessa aula eu aprendi... ❤️
 
 ## Objeto 
