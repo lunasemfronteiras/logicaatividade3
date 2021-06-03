@@ -1,7 +1,7 @@
 # Nessa aula eu aprendi... ❤️
 
 ## Objeto 
-### Aprendi que objeto é um tipo de dado que contém uma coleção de propriedades organizadas em pares de chave e valor, para criar um novo objeto, podemos atribuir a uma variável uma lista de elementos entre chaves, separados por vírgula e com a notação de chave : valor.
+##### Aprendi que objeto é um tipo de dado que contém uma coleção de propriedades organizadas em pares de chave e valor, para criar um novo objeto, podemos atribuir a uma variável uma lista de elementos entre chaves, separados por vírgula e com a notação de chave : valor.
 
 ## Arrays
 ### Aprendi que permite armazenar um conjunto de dados e atribuí-los a uma variável, tornando esta a estrutura de dados mais simples possível.
