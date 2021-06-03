@@ -30,7 +30,7 @@
 ## Luna Valentina
 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/transdev_/)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luna-valentina-santiago-fernandes-de-matos-5618b0208/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/transdev/)
 
 ![VIVA A DIVERCIDADE!!!](https://lucianagenro.com.br/wp-content/uploads/2021/01/bandeira-trans.jpg)
 
