@@ -29,7 +29,7 @@
 
 ## Luna Valentina
 
-[Instagram] (https://www.instagram.com/transdev_/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/transdev_/)
 
 ![VIVA A DIVERCIDADE!!!](https://lucianagenro.com.br/wp-content/uploads/2021/01/bandeira-trans.jpg)
 
